@@ -1,0 +1,16 @@
+.navbar {
+	height: 10vh;
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    background-color: #f4edde;
+}
+
+.navbar a {
+	font-weight: bold;
+	font-size: large;
+	color: #048b9a;
+}
